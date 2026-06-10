@@ -49,19 +49,17 @@ Me gusta compartir buenos momentos (¿una buena charla y algo para brindar? 🍻
 
 ---
 
-### 📂 Proyectos destacados
-- 🛍️ **Proyecto final 1º DAM – Tienda web (HTML, CSS, PHP, MySQL)**  
-  Aplicación con registro e inicio de sesión, gestión de usuarios y conexión a base de datos.  
-  **Tecnologías:** PHP, MySQL, HTML, CSS.  
-  **Aprendizaje clave:** conexión segura a base de datos, validación de formularios y diseño modular del código.
+### 📂 Mi portafolio
+- [Portafolio](https://manuelbenaventecarrillo.github.io/)
 
 ---
 
 
 
 ### 📫 Conecta conmigo
+- 🌐 Portafolio: [manuelbenaventecarrillo.github.io/](https://manuelbenaventecarrillo.github.io/)
 - 💼 LinkedIn: ([linkedin.com/in/manuelbenaventecarrillo](https://www.linkedin.com/in/manuelbenaventecarrillo/))
-- ✉️ Correo: manbegon1994@gmail.com  
+- ✉️ Correo: manbegon1994@gmail.com
 - ⚡ GitHub: [github.com/manuelbenaventecarrillo](https://github.com/manuelbenaventecarrillo)
 
 ---
